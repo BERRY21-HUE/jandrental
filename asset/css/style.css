@@ -201,9 +201,7 @@ header {
 
 .home-container .hero-buttons {
     justify-self: center;
-    margin: 70px 0 20px;
-    justify-items: center;
-    justify-content: center;
+    margin: 70px auto 20px;
 }
 
 .home-container .hero-buttons a {
