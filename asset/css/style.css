@@ -532,6 +532,7 @@ img {
 .rental-article .name {
     font-size: var(--font-size-xl);
     font-weight: var(--font-weight-m);
+    text-align: center;
 }
 
 .rental-article .details {
