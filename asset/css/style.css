@@ -1838,12 +1838,6 @@ img {
         text-align: center;
     }
 
-    .home-card-btn {
-        justify-self: center;
-        text-align: center;
-        max-width: 50%;
-    }
-
     .home-card-second .nav-container {
         flex-direction: column;
         gap: 50px;
