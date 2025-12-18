@@ -254,6 +254,7 @@ img {
 
 .home-card-btn {
     justify-self: center;
+    text-align: center;
 }
 
 .home-card-btn p {
@@ -1835,6 +1836,12 @@ img {
         padding: 7px 10px;
         display: flex;
         text-align: center;
+    }
+
+    .home-card-btn {
+        justify-self: center;
+        text-align: center;
+        max-width: 50%;
     }
 
     .home-card-second .nav-container {
