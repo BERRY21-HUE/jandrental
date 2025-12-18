@@ -253,8 +253,9 @@ img {
 }
 
 .home-card-btn {
-    justify-self: center;
+    /* justify-self: center; */
     text-align: center;
+    justify-items: center;
 }
 
 .home-card-btn p {
