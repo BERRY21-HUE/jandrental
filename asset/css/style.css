@@ -252,13 +252,15 @@ img {
     padding: 60px 0;
 }
 
-.home-card-btn {
+/* .home-card-btn {
     justify-self: center;
     text-align: center;
-}
+} */
 
 .home-card-btn p {
     padding: 15px 25px;
+    justify-self: center;
+    text-align: center;
     background: var(--grey-color);
     color: var(--black-color);
     border-radius: var(--border-radius-m);
@@ -1074,7 +1076,7 @@ img {
 .location-contact-data .title {
     padding: 10px 25px;
     background: var(--grey-color);
-    /* max-width: 50%; */
+    text-align: center;
     justify-self: center;
     border-radius: var(--border-radius-m);
     font-size: var(--font-size-l);
