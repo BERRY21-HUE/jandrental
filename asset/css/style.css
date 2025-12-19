@@ -1075,7 +1075,7 @@ img {
 }
 
 .location-contact-data .title {
-    justify-content: center;
+    justify-self: center;
 }
 
 .location-contact-data .title p {
