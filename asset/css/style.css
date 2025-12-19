@@ -597,10 +597,6 @@ img {
     align-items: flex-start;
 }
 
-.testimonial-details .title {
-    text-align: center;
-}
-
 .testimonial-details .title p i {
     font-size: var(--font-size-m);
     padding: 16px 25px;
@@ -982,6 +978,7 @@ img {
 
 .gallery-footer {
     justify-items: center;
+    text-align: center;
 }
 
 .gallery-footer h2 {
@@ -1870,6 +1867,10 @@ img {
 
     .rental-swiper .swiper-button-next {
         margin-right: 10rem;
+    }
+
+    .testimonial-details .title {
+        text-align: center;
     }
 
     .gallery-data,
