@@ -1180,10 +1180,6 @@ img {
 }
 
 .gold-menu-card .title-btn {
-    margin: 0;
-}
-
-.gold-menu-card .title-btn p {
     text-align: center;
     padding: 13px 50px;
     background: var(--grey-color);
@@ -1292,7 +1288,7 @@ img {
 
 .gold-order-btn {
     justify-self: center;
-    margin: 0 auto;
+    text-align: center;
 }
 
 .gold-order-btn a {
