@@ -1076,7 +1076,7 @@ img {
 
 .location-contact-data .title {
     text-align: center;
-    margin: 0 auto;
+    /* margin: 0 auto; */
 }
 
 .location-contact-data .title p {
@@ -1180,6 +1180,11 @@ img {
 }
 
 .gold-menu-card .title-btn {
+    /* text-align: center; */
+    margin: 0 auto;
+}
+
+.gold-menu-card .title-btn p {
     text-align: center;
     padding: 13px 50px;
     background: var(--grey-color);
