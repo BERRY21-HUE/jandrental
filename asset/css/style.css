@@ -1075,9 +1075,12 @@ img {
 }
 
 .location-contact-data .title {
+    text-align: center;
+}
+
+.location-contact-data .title p {
     padding: 10px 25px;
     background: var(--grey-color);
-    text-align: center;
     justify-self: center;
     border-radius: var(--border-radius-m);
     font-size: var(--font-size-l);
