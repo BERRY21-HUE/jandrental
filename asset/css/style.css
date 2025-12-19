@@ -1076,7 +1076,7 @@ img {
 
 .location-contact-data .title {
     text-align: center;
-    /* margin: 0 auto; */
+    margin: 0 auto;
 }
 
 .location-contact-data .title p {
@@ -1177,11 +1177,6 @@ img {
 .location-contact-data .contact-form button:hover {
     background: transparent;
     color: var(--primary-color);
-}
-
-.gold-menu-card .title-btn {
-    /* text-align: center; */
-    margin: 0 auto;
 }
 
 .gold-menu-card .title-btn p {
@@ -1293,6 +1288,7 @@ img {
 
 .gold-order-btn {
     justify-self: center;
+    justify-content: center;
 }
 
 .gold-order-btn a {
@@ -1339,6 +1335,7 @@ img {
 
 .partner-card .title-btn {
     justify-self: center;
+    text-align: center;
     padding: 12px 40px;
     background: var(--grey-color);
     font-size: var(--font-size-l);
