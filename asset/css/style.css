@@ -884,6 +884,7 @@ img {
 .gallery-control-btn {
     padding-top: 50px;
     justify-self: center;
+    text-align: center;
     display: flex;
     gap: 20px;
     align-items: center;
