@@ -1471,8 +1471,9 @@ img {
     color: var(--white-color);
 }
 
-.about-stats .stats-title {
+.about-stats .stats-title p {
     justify-self: center;
+    text-align: center;
     font-size: var(--font-size-l);
     padding: 12px 25px;
     background: var(--grey-color);
