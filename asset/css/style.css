@@ -1471,6 +1471,10 @@ img {
     color: var(--white-color);
 }
 
+.about-stats .stats-title {
+    margin: 0 auto;
+}
+
 .about-stats .stats-title p {
     justify-self: center;
     text-align: center;
