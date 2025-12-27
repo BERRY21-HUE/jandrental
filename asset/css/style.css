@@ -1708,9 +1708,14 @@ img {
     transition: width 1.5s;
 }
 
+.contact-menu-card .contact-text {
+    text-align: center;
+}
+
 .contact-menu-card .title {
     text-align: center;
     justify-self: center;
+    display: inline-block;
     padding: 12px 25px;
     background: var(--grey-color);
     color: var(--second-grey-color);
@@ -2337,9 +2342,5 @@ img {
         border-radius: 20px;
         margin-bottom: 20px;
         border: 2px solid var(--primary-color);
-    }
-
-    .about-profession-details .tab-select option {
-        color: var(--black-color);
     }
 }
