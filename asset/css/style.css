@@ -1786,7 +1786,6 @@ img {
 
 .contact-menu-card .contact-form .form-2 .department-form select {
     cursor: pointer;
-    height: 40px;
 }
 
 .contact-menu-card .contact-form .textarea-form textarea {
@@ -1956,6 +1955,7 @@ img {
     .contact-menu-card .contact-form input,
     .contact-menu-card .contact-form .form-2 .department-form select {
         width: 100%;
+        height: 40px;
     }
 }
 
