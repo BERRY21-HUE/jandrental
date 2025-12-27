@@ -1473,6 +1473,9 @@ img {
 
 .about-stats .stats-title {
     margin: 0 auto;
+    justify-content: center;
+    justify-self: center;
+    justify-items: center;
 }
 
 .about-stats .stats-title p {
