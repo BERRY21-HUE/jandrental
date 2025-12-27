@@ -2338,4 +2338,8 @@ img {
         margin-bottom: 20px;
         border: 2px solid var(--primary-color);
     }
+
+    .about-profession-details .tab-select option {
+        color: var(--black-color);
+    }
 }
